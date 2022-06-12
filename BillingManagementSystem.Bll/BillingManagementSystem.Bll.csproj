@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.4.0" />
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillingManagementSystem.Dal\BillingManagementSystem.Dal.csproj" />
+    <ProjectReference Include="..\BillingManagementSystem.Entity\BillingManagementSystem.Entity.csproj" />
+    <ProjectReference Include="..\BillingManagementSystem.Interface\BillingManagementSystem.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

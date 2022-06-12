@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BillingManagementSystem.Bll\BillingManagementSystem.Bll.csproj" />
+    <ProjectReference Include="..\BillingManagementSystem.Dal\BillingManagementSystem.Dal.csproj" />
+    <ProjectReference Include="..\BillingManagementSystem.Entity\BillingManagementSystem.Entity.csproj" />
+    <ProjectReference Include="..\BillingManagementSystem.Interface\BillingManagementSystem.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

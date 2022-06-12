@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\BillingManagementSystem.Interface.deps.json
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\BillingManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\ref\BillingManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\BillingManagementSystem.Interface.pdb
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.AssemblyInfo.cs
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\ref\BillingManagementSystem.Interface.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.pdb
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\BillingManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\bin\Debug\net5.0\BillingManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Interface\obj\Debug\net5.0\BillingManagementSystem.Interface.csproj.CopyComplete

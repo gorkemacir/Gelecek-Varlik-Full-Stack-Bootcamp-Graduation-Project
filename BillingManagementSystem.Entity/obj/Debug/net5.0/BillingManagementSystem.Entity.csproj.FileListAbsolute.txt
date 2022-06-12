@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\BillingManagementSystem.Entity.deps.json
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\BillingManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\ref\BillingManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\BillingManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.AssemblyInfo.cs
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\ref\BillingManagementSystem.Entity.dll
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.pdb
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\BillingManagementSystem.Entity.runtimeconfig.json
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\bin\Debug\net5.0\BillingManagementSystem.Entity.runtimeconfig.dev.json
+C:\Users\HP\source\repos\BillingManagementSystem\BillingManagementSystem.Entity\obj\Debug\net5.0\BillingManagementSystem.Entity.genruntimeconfig.cache
